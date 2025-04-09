@@ -22,6 +22,6 @@
 
 
 ## 🌱 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/chieric03/)  
+- [LinkedIn](https://www.linkedin.com/in/ericchi03/)  
 - Email: ericchi@g.ucla.edu, chieric03@gmail.com  
 
