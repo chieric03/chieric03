@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 Current ProjectsWhat I’m working on:
+## 🧠 Projects:
 - 📈 Experimenting with **algorithmic trading** using Python, `backtest.py`, and `ta-lib'
   - Researching technical analysis, why it appears (the psychology behind it) and fine tuning algorithms to recognize chart patterns and utilize other indicators
 - ♟️ (Finished V1) DFChess: A chess engine built solely with pandas dataframes.
