@@ -16,7 +16,7 @@
 
 ---
 
-- **Specialties**: Python, Data Visualization packages, Machine Learning models
+- **Specialties**: Python, Data Visualization and Analysis, Machine Learning models
 
 ---
 
