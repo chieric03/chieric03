@@ -23,5 +23,6 @@
 
 ## 🌱 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/ericchi03/)  
-- Email: ericchi@g.ucla.edu, chieric03@gmail.com  
+- Email: ericchi@g.ucla.edu, chieric03@gmail.com
+- Instagram: @eric.chii 
 
