@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Eric Chi
 
-🎓 Math/Econ with a Specalization in Computing at UCLA 🐻
-🔬 My main personal research dives into machine learning and its application in data analysis with an emphasis on financial markets  
+🎓 I am a Math/Econ with a Specalization in Computing 4th year at UCLA 🐻
+🔬 My personal research dives into machine learning and its application in data analysis with an emphasis on financial markets  
 
 ---
 
